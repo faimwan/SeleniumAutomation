@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\bin\Debug\WordPressAutomation.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\bin\Debug\WordPressAutomation.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\bin\Debug\WebDriver.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\bin\Debug\WebDriver.Support.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\bin\Debug\WebDriver.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\bin\Debug\WebDriver.Support.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SeleniumAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.csprojResolveAssemblyReference.cache
